@@ -10,7 +10,7 @@
 // CC0
 
 // Set this to be the pin that your buzzer resides in. (Note that you can only have one buzzer actively using the PWM signal at a time).
-int tonePin = 11;
+int tonePin = 3;
 void setup() {
 
 }
